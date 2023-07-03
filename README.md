@@ -22,10 +22,10 @@ Note: The above descriptions can be further expanded or customized based on the 
 How to install and start the application:<br>
 To install all the dependencies:<br>
 
-      mvn clean install<br>
+      mvn clean install
 To start application using mvn command:<br>
 
-      mvn compile exec:java<br>
+      mvn compile exec:java
 To create executable jar file in shade directory:<br>
 
-      mvn compile package<br>
+      mvn compile package
